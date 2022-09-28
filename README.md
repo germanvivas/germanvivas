@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+### Hola a todos🙃
+soy ingeniero en " formancion " me encuentro en segundo semestre de ing.mecatronica. En la uni. EAN 🤖 
+<!
 **germanvivas/germanvivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
